@@ -1,0 +1,18 @@
+
+For installation setup:
+
+1. chmod 744 setup.sh
+2. ./setup.sh
+
+To run:
+
+simply write: PasswordGenerator
+
+To uninstall:
+
+1. ./uninstall.sh 
+
+useraccount-password mapped text
+encrypt the password
+hash the password
+
