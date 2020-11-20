@@ -11,8 +11,3 @@ simply write: PasswordGenerator
 To uninstall:
 
 1. ./uninstall.sh 
-
-useraccount-password mapped text
-encrypt the password
-hash the password
-

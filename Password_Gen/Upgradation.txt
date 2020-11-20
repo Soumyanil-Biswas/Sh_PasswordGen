@@ -1,0 +1,7 @@
+1. Making a password vault:
+
+	1. all th passwords will be encrypted
+	2. then all the passwords will be hashed
+	3. file will be a etxt file containing encrypted as well as hashed passwords
+
+2. Allowing user to change passwords of multiple user accounts
