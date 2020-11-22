@@ -5,3 +5,5 @@
 	3. file will be a etxt file containing encrypted as well as hashed passwords
 
 2. Allowing user to change passwords of multiple user accounts
+
+3. Removing Paste option
