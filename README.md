@@ -3,7 +3,7 @@
 ## For Installation Setup:
 &nbsp;
 ```
-$ cd Sh_PasswordGen/
+$ cd Sh_PasswordGen/Password_Gen/
 $ chmod 744 setup.sh
 $ ./setup.sh
 ```
