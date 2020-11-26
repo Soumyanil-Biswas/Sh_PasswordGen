@@ -1,4 +1,6 @@
 
+Can Only be utilised fully, if the OS is Linux
+
 For installation setup:
 
 	1. cd Sh_PasswordGen/Password_Gen/
