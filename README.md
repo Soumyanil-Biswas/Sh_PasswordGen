@@ -1,6 +1,5 @@
 # ***Bash_Password_Generator***
 &nbsp;
-
 ## **DISCLAIMER:** 
 #### Can Only be utilised fully, if the OS is Linux
 
