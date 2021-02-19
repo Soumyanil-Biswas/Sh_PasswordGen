@@ -15,6 +15,10 @@ $ ./setup.sh
 ### Simply write:
 ```
 $ PasswordGenerator
+
+OR
+
+$ PasswordGenerator -h
 ```
 ## A Screenshot:
 
