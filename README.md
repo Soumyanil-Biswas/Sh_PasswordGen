@@ -24,9 +24,7 @@ $ PasswordGenerator -h
 
 ![alt text](https://github.com/Soumyanil-Biswas/Sh_PasswordGen/blob/main/Password_Gen/Screenshot.png?raw=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brightgreen?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/-reveng-/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-brightgreen?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/soumyani1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brightgreen?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/-reveng-/) [![Twitter](https://img.shields.io/badge/Twitter-brightgreen?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/soumyani1)
 
 ## To Uninstall:
 ```
